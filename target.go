@@ -31,8 +31,8 @@ import (
 	"net/http"
 	"time"
 
-	//odoh "github.com/cloudflare/odoh-go"
-	odoh "github.com/Oblivious-DNS-Researcher/odoh-go"
+	odoh "github.com/cloudflare/odoh-go"
+	//odoh "github.com/Oblivious-DNS-Researcher/odoh-go"
 	"github.com/miekg/dns"
 )
 

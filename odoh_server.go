@@ -32,8 +32,8 @@ import (
 	"time"
 
 	"github.com/cisco/go-hpke"
-	//odoh "github.com/cloudflare/odoh-go"
-	odoh "github.com/Oblivious-DNS-Researcher/odoh-go"
+	odoh "github.com/cloudflare/odoh-go"
+	//odoh "github.com/Oblivious-DNS-Researcher/odoh-go"
 )
 
 const (
